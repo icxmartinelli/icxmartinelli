@@ -4,7 +4,7 @@
 
 <p>Sou apaixonada <3 por programação e agora estou aprendendo mais sobre programação web, mais especificamente JavaScript. Trabalho como freelancer em Social Media e estou à procura de novas oportunidades no mercado. Procuro colaborar com esta comunidade on-line com meus conhecimentos já adquiridos em programação web. </p>
 
-<p>Criei este perfil novamente para a <a href="https://nextlevelweek.com/">Next Level Week</a> e estou animada para vencer novos desafios!</p>
+<p>Criei este perfil especialmente para a <a href="https://nextlevelweek.com/">Next Level Week</a> e estou animada para vencer novos desafios!</p>
 
 <p><strong>Contato</strong>
 <br>/* Sinta-se a vontade para falar comigo! */
