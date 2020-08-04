@@ -1,4 +1,6 @@
-### Hi there 👋
+<strong>Olá, Mundo!</strong> 👋
+
+Este é meu primeiro repositório aqui no GitHub. Já tenho uma formação técnica na área de informática como Técnica em Informática e Técnica em Informática para Internet. Trabalhei como Suporte Técnica em duas Softwares Houses e também como Programadora Desktop. Sou apaixonada por programação e agora estou 
 
 <!--
 **icxmartinelli/icxmartinelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
