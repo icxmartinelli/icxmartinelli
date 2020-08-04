@@ -7,6 +7,6 @@
 <p>Criei este perfil novamente para a <a href="https://nextlevelweek.com/">Next Level Week</a> e estou animada para vencer novos desafios!</p>
 
 <p><strong>Contato</strong></p>
-<p><em>Sinta-se a vontade para falar comigo!</em></p>
-<p><strong>E-mail: </strong>isabellacristinaxm@gmail.com</p>
-<p>Sou @icxmartinelli em todas as redes sociais! ;)</p>
+<em>Sinta-se a vontade para falar comigo!</em>
+<p><strong>E-mail: </strong>isabellacristinaxm@gmail.com
+<br>Sou @icxmartinelli em todas as redes sociais! ;)</p>
