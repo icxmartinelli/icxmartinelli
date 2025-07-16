@@ -6,12 +6,11 @@
 
 <h1>Olá, Mundo! 👋</h1>
 
-<p>💁 Este é meu primeiro repositório aqui no GitHub. Já tenho uma formação técnica 💻 na área de informática como <strong>Técnica em Informática</strong> e <strong>Técnica em Informática para Internet</strong>. Trabalhei como Suporte Técnico em três Softwares Houses e também como Programadora Desktop, incluindo meu trabalho atual.</p>
+<p>💁 Este é meu primeiro repositório aqui no GitHub. Já tenho uma formação técnica 💻 na área de informática como <strong>Técnica em Informática</strong> e <strong>Técnica em Informática para Internet</strong>. Trabalhei como Suporte Técnico em três Softwares Houses e também como Programadora Desktop, incluindo <a href="https://rossiwd.com.br/">meu trabalho atual</a>.</p>
 
 <p>Sou apaixonada 💛 por programação. Espero colaborar com esta comunidade on-line. </p>
 
-<p><strong>Contato</strong>
-<br><strong>E-mail: </strong><a href="mailto:isabellacristinaxm@gmail.com">isabellacristinaxm@gmail.com</a>
+<p><strong>E-mail: </strong><a href="mailto:isabellacristinaxm@gmail.com">isabellacristinaxm@gmail.com</a>
 <br>Sou @icxmartinelli em todas as redes sociais! 🚀
 <br>
   <a href="http://be.net/icxmartinelli/">Behance</a> | <a href="http://github.com/icxmartinelli/">GitHub</a> | <a href="https://www.linkedin.com/in/icxmartinelli/">LinkedIn</a> | <a href="https://teams.live.com/l/invite/FAAvPcMix-m5LvAAQE">Teams</a> | <a href="https://t.me/icxmartinelli">Telegram</a>
