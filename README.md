@@ -13,7 +13,7 @@
 <p><strong>Contato</strong>
 <br><strong>E-mail: </strong><a href="mailto:isabellacristinaxm@gmail.com">isabellacristinaxm@gmail.com</a>
 <br>Sou @icxmartinelli em todas as redes sociais! 🚀
-  <a href="https://www.linkedin.com/in/icxmartinelli/"><i class="bi bi-linkedin"></i> LinkedIn</a>
+<br><a href="https://www.linkedin.com/in/icxmartinelli/"><i class="bi bi-linkedin"></i> LinkedIn</a> |
 </p>
 
 </body>
