@@ -15,7 +15,7 @@
 <br>
   <a href="http://be.net/icxmartinelli/">Behance</a> | <a href="http://github.com/icxmartinelli/">GitHub</a> | <a href="https://www.linkedin.com/in/icxmartinelli/">LinkedIn</a> | <a href="https://teams.live.com/l/invite/FAAvPcMix-m5LvAAQE">Teams</a> | <a href="https://t.me/icxmartinelli">Telegram</a>
 <br>
-  <a href="https://www.duolingo.com/profile/icxmartinelli_">Duolingo</a> | <a href="https://www.facebook.com/icxmartinelli">Facebook</a> | <a href="https://www.instagram.com/icxmartinelli/">Instagram</a> | <a href="https://br.pinterest.com/icxmartinelli/">Pinterest</a> | <a href="https://open.spotify.com/user/isabellacristinaxm">Spotify</a>
+  <a href="https://www.duolingo.com/profile/icxmartinelli_">Duolingo</a> | <a href="https://www.facebook.com/icxmartinelli">Facebook</a> | <a href="https://www.instagram.com/icxmartinelli/">Instagram</a> | <a href="https://br.pinterest.com/icxmartinelli/">Pinterest</a> | <a href="https://open.spotify.com/user/isabellacristinaxm">Spotify</a> | <a href="https://www.youtube.com/@icxmartinelli">YouTube</a>
 </p>
 
 </body>
