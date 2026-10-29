@@ -6,9 +6,8 @@
 <p>💡 Trabalhei como <strong>designer gráfica / social media</strong> em uma agência de publicidade (2016 a 2018) e
   <strong>arte finalista</strong> em uma indústria (2019 a 2023), continuando na área de design como freelancer (2019 até o momento).</p>
 
-<p> ☕ Também trabalhei como <strong>suporte técnico</strong> em três softwares houses (2014, 2019 e 2023 até o momento)
-  além de atuar como <strong>programadora</strong>, incluindo o 
-  <strong><a href="https://rossiwd.com.br/" target="_blank">meu trabalho atual</a>.</strong></p>
+<p> ☕ Também trabalhei como <strong>suporte técnico</strong> em três softwares houses (2014, 2019 e 2023 a 2026)
+  além de atuar como <strong>programadora</strong>.</p>
 
 <p>Sou apaixonada 💛 por programação. Espero colaborar com esta comunidade on-line. </p>
 
