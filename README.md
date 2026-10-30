@@ -12,6 +12,7 @@
 <p> 🗽 Em 2024, eu viajei pela primeira vez para Nova York e também compartilhei minha experiência.
   O artigo completo está em meu Notion: <strong><a href="https://icxmartinelli.notion.site/Sobre-a-viagem-a-Nova-York-1477c1bae03780dca51cd0d20dee0b03?pvs=73" target="_blank">Sobre a viagem a Nova York</a></strong>.</p>
 <p> ▶️ Sou fluente em inglês e falo um pouco de chinês mandarim. Neste vídeo me apresento em inglês: <strong><a href="https://youtu.be/kAXZfbW1m8E?si=IXU5In64nxdWeTGt" target="_blank">Introducing myself</a></strong>.</p>
+<p>Sou apaixonada 💛 por programação. Espero colaborar com esta comunidade on-line. </p>
 
 <hr>
 <p>Sou @icxmartinelli em todas as redes sociais! 🌻</p>
